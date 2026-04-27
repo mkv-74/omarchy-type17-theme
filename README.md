@@ -4,7 +4,7 @@
    - Paste the command in your terminal ⬇️
      
   ```bash
-   omarchy-theme-install https://github.com/atif-1402/omarchy-type17-theme.git
+   omarchy-theme-install https://github.com/mkv-74/omarchy-type17-theme.git
    ```
   
   OR
@@ -13,7 +13,7 @@
   - Go to Install > Style > Theme and paste the the below git repo link ⬇️
     
    ```bash
-    https://github.com/atif-1402/omarchy-type17-theme.git
+    https://github.com/mkv-74/omarchy-type17-theme.git
    ```
      
 ## ➡️ Customized Apps
